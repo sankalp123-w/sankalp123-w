@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sankalp123-w "/>
- ![Sankalp's github stats]
-
+ 
 ### Hi there 👋, I'm Sankalp Jha. I'm a Full stack developer . Welcome to my gh page! <br>
 - 👀 I’m interested in  web dev(fullstack) and coding 
 - 🌱 I’m currently learning :Mern-Stack<br>
