@@ -1,5 +1,5 @@
-<img src="https://getwallpapers.com/wallpaper/full/b/3/8/358806.jpg"/>
- ![Sankalp's github stats](https://github-readme-stats.vercel.app/api?username=sankalp123-w)
+<img src="https://github-readme-stats.vercel.app/api?username=sankalp123-w "/>
+ ![Sankalp's github stats]
 
 ### Hi there 👋, I'm Sankalp Jha. I'm a Full stack developer . Welcome to my gh page! <br>
 - 👀 I’m interested in  web dev(fullstack) and coding 
