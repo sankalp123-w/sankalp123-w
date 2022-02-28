@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sankalp2260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sankalp2260" height="30" width="40" /></a>
+<a href="https://instagram.com/san_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="san__jha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalp123-w&show_icons=true&locale=en" alt="sankalp123-w" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp123-w&" alt="sankalp123-w" /></p>
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=sankalp123-w&row=1&column=4" alt="sankalp123-w" /></p>
