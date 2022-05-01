@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web dev projects**
 
-- 👨‍💻 All of my projects are available at [http://myinfo.ultimatefreehost.in/](http://iamsankalp.me/)
+- 👨‍💻 All of my projects are available at [http://iamsankalp.me/](http://iamsankalp.me/)
 
 - 💬 Ask me about **react , nodejs , javascript**
 
