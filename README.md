@@ -24,17 +24,15 @@ I am a **Software Engineer at Genesys** with a focus on building robust, scalabl
 ### 🛠️ Technical Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,kafka,mysql,html,css,tailwind,sass,cpp,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,typescript,nodejs,express,mongodb,kafka,elasticsearch,aws,mysql,html,css,tailwind,cpp,java,git,github,vscode" />
 </p>
-
 ---
 
-### 🚀 Professional Highlights
-
-*   **API Optimization:** Proven track record of streamlining API usage for maximum efficiency.
-*   **Infrastructure:** Experienced in managing **Kafka** data pipelines and **PM2** server environments.
-*   **Leadership:** Served as **Technical Head** at Antha Prerna Cell (2021-2023).
-
+### 🏗️ Core Infrastructure & Backend Expertise
+*   **Data Streaming:** Architecting and managing high-throughput pipelines using **Apache Kafka**.
+*   **Search & Analytics:** Implementing fast, scalable search capabilities with **Elasticsearch**.
+*   **Cloud Services:** Deploying and managing scalable infrastructure on **AWS**.
+*   **System Performance:** Expert in **API Optimization**, server management via **PM2**, and database tuning (MongoDB/MySQL).
 ---
 
 ### 📊 GitHub Analytics
